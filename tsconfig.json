@@ -17,6 +17,9 @@
     "lib": [
       "es2018",
       "dom"
+    ],
+    "types": [
+      "./node_modules/network-information-types"
     ]
   },
   "angularCompilerOptions": {
